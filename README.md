@@ -1,6 +1,6 @@
 # R-data91
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-data91)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-data91&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Overview
 ...
