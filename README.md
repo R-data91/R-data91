@@ -1,6 +1,6 @@
-#R-data91
+# R-data91
 
-![gif](https://github.com/kotabrog/ft_mini_ls/blob/main/image/ft_mini_ls.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-data91)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Overview
 ...
