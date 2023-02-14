@@ -1,8 +1,9 @@
 # R-data91
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-data91&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-data91)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-data91&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=R-data91&theme=onedark&show_icons=ture" />
+</p>
 
 ## Overview
 ...
