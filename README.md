@@ -5,31 +5,62 @@ Discord.jsばっかり弄ってる人。
 Discord(Main) Ꮢ.#6298  
 Discord(Sub)  GBP_border_data(JP)#1964  
 
+
 ## 作成・運用中のDiscord Bot
 
-・Untitled#7408  
-→プロセカの非公式情報Bot。楽曲情報、カード情報の表示をはじめ、ガチャのデモやチャレンジライブ通知、ビンゴ機能なども搭載。  
-※開発継続中。DMからBotをお試しいただけます。
+### Untitled#7408  
+プロセカ[^1]の非公式情報Bot[^2][^3] 開発継続中。DMからBotをお試しいただけます。  
 
-・Cosette#2167  
-→takt op.の非公式Bot。βテスト時のキャラクター情報やメンバープロフィールの表示、ガチャのデモを実行可能。  
+* 搭載機能
+
+  * /roll - ガチャコマンド。ゲーム内ガチャのデモを行えます
+  * /challenge-live - チャレンジライブ通知設定コマンド。指定した時刻にチャレンジライブを促す通知を送信します
+  * /bingo - ビンゴカードを生成・プレイするコマンド。指定条件に応じたビンゴカードを作成し遊ぶことが出来ます
+  * /point-calculation - ポイント計算コマンド。獲得したいポイントに必要なスコアと楽曲を表示します
+  * /search - 検索コマンド。現時点で対応している検索対象は以下の通り。  
+  
+      |  検索対象  |  表示内容  |
+      | :----: | :----: |
+      |  profile  |  キャラクタープロフィール(全35キャラクター)  |
+      |  music  |  ボーカルや難易度、編曲者などを含む楽曲情報  |
+      |  songLyrics |  楽曲の歌詞情報(原曲フルサイズに対応)  |
+      |  event  |  イベント属性、ボーナスキャラクターを含むイベント情報  |
+      |  card  |  属性やスキル効果、登場イベントなどを含むカード情報  |
+
+### Cosette#2167  
+takt op.[^4]の非公式情報Bot[^5][^6] βテスト時のキャラクター情報やメンバープロフィールの表示、ガチャのデモを実行可能。  
 ※正式リリース後に機能追加等を予定。DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試しいただけます
 
-・まりなさん#6445  
-→ガルパの非公式Bot。メンバープロフィールの表示やガチャのデモを実行可能。  
-※スラッシュコマンドへ移行の後、開発再開予定。[こちら](https://discord.gg/BDPvWzqC9f)でBotをお試しいただけます
+* 搭載機能
 
-・FranChouChou#0554  
+  * /roll - ガチャコマンド。ゲーム内各ガチャのデモを行えます
+  * /search - 検索コマンド。現時点で対応している検索対象は以下の通り。  
+  
+      |  検索対象  |  表示内容  |
+      | :----: | :----: |
+      |  profile  |  キャラクタープロフィール(全20キャラクター)  |
+      |  musicart  |  **βテスト時の**ゲーム内ムジカートステータス等の情報  |
+      |  soundSource |  **βテスト時の**ゲーム内音源楽装効果等の情報  |
+      |  item  |  **βテスト時の**ゲーム内アイテム説明、入手方法等の情報  |
+
+### まりなさん#6445  
+→ガルパの非公式Bot。メンバープロフィールの表示やガチャのデモを実行可能。  
+※スラッシュコマンドへ移行の後、開発再開予定。[こちら](https://discord.gg/BDPvWzqC9f)でBotをお試しいただけます  
+
+### FranChouChou#0554  
 →ゾンサガの非公式Bot。歌詞表示など  
-※開発停止中、再開未定。Botのお試し希望の方はᏒ.#6298のDMまで
+※開発停止中、再開未定。Botのお試し希望の方はᏒ.#6298のDMまで  
 
 ## Discord管理サーバー
 
-・[【非公式】ガルパコミュニティサーバ](https://discord.gg/BDPvWzqC9f) ※現在は非活性化  
-・[takt op. Community](https://discord.com/invite/cnhpvB8VHF) ※アプリが6月下旬リリース  
+### [【非公式】ガルパコミュニティサーバ](https://discord.gg/BDPvWzqC9f)
+※現在は非活性化  
 
-・[ガルパ公式サーバ](https://discord.com/invite/bang-dream-gbp)  
-※モデレータ
+### [takt op. Community](https://discord.com/invite/cnhpvB8VHF)
+※アプリが6月下旬リリース  
+
+### [ガルパ公式サーバ](https://discord.com/invite/bang-dream-gbp)
+※モデレータ  
 
 ## Twitter
 
@@ -39,4 +70,12 @@ Discord(Sub)  GBP_border_data(JP)#1964
 ## Other
 
 ・Javaを用いたAndroidアプリ開発で「アイデア部門 特別賞」を受賞  
-・JavaScriptを使用したWebアプリ開発で「企業賞」を受賞
+・JavaScriptを使用したWebアプリ開発で「企業賞[^10]」を受賞
+
+[^1]: SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」
+[^2]: 「プロジェクトセカイ COLORFUL STAGE！ feat.初音ミク」の非公式情報Bot。 本Discord Botは「SEGA」「Colorful Palette」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
+[^3]: An unofficial info bot for the "Project SEKAI COLORFUL STAGE! feat. HATSUNE MIKU" This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "SEGA" and "Colorful Palette".
+[^4]: DeNAとバンダイナムコアーツによるメディアミックスプロジェクト「takt op.」ここではゲーム『takt op. 運命は真紅き旋律の街を』とテレビアニメ『takt op.Destiny』も含む
+[^5]: 「takt op.」プロジェクトの非公式情報Bot。本Discord Botは「DeNA」「バンダイナムコアーツ」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
+[^6]: An unofficial info bot for the "takt op." This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "DeNA" and "BANDAI NAMCO Arts".
+[^10]: 正式には企業名が入るが、ここでは個人情報秘匿のため記載せず
