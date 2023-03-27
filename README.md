@@ -63,13 +63,18 @@ DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試し�
 ## Discord管理サーバー
 
 ### [【非公式】ガルパコミュニティサーバ](https://discord.gg/BDPvWzqC9f)
-※現在は非活性化  
+* 当初はボーダー共有サーバとして設立。周年時にコミュニティサーバとしてリスタート。
+* 数十イベントにおいてボーダー共有を支援、GBP_border_dataを含めボーダー情報共有の場として活動。
+* 6周年時に[公式Discordサーバ](https://discord.com/invite/bang-dream-gbp)が設立され、現在は非活性化。
 
 ### [takt op. Community](https://discord.com/invite/cnhpvB8VHF)
-※アプリが6月下旬リリース  
+* takt op.プロジェクト全般のコミュニティサーバとして始動。
+* アニメ、アプリ双方のコミュニティとして発展途上
+* アプリ「takt op. 運命は真紅き旋律の街を」が6月下旬にリリース予定！  
 
 ### [ガルパ公式サーバ](https://discord.com/invite/bang-dream-gbp)
-※モデレータ  
+* 6周年に公式サーバとして設立される(現在は3か月の試用期間)
+* 第1回モデレータ募集により「Ꮢ.#6298」を含む十数名がモデレータとして選出される
 
 ## Twitter
 
@@ -81,16 +86,16 @@ DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試し�
 ・Javaを用いたAndroidアプリ開発で「アイデア部門 特別賞」を受賞  
 ・JavaScriptを使用したWebアプリ開発で「企業賞[^13]」を受賞
 
-[^1]: SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」
+[^1]: SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム[「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」](https://pjsekai.sega.jp/)
 [^2]: 「プロジェクトセカイ COLORFUL STAGE！ feat.初音ミク」の非公式情報Bot。 本Discord Botは「SEGA」「Colorful Palette」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
 [^3]: An unofficial info bot for the "Project SEKAI COLORFUL STAGE! feat. HATSUNE MIKU" This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "SEGA" and "Colorful Palette".
-[^4]: DeNAとバンダイナムコアーツによるメディアミックスプロジェクト「takt op.」ここではゲーム『takt op. 運命は真紅き旋律の街を』とテレビアニメ『takt op.Destiny』も含む
+[^4]: DeNAとバンダイナムコアーツによるメディアミックスプロジェクト[「takt op.」](https://takt-op.jp/)ここではアプリ[『takt op. 運命は真紅き旋律の街を』](https://game.takt-op.jp/)とテレビアニメ[『takt op.Destiny』](https://anime.takt-op.jp/)も含む
 [^5]: 「takt op.」プロジェクトの非公式情報Bot。本Discord Botは「DeNA」「バンダイナムコアーツ」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
 [^6]: An unofficial info bot for the "takt op." This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "DeNA" and "BANDAI NAMCO Arts".
-[^7]: はじめよう、私たちのバンド活動（ライフ）！スマホで遊べるリズム＆アドベンチャーゲーム『バンドリ！ ガールズバンドパーティ！』
+[^7]: はじめよう、私たちのバンド活動（ライフ）！スマホで遊べるリズム＆アドベンチャーゲーム[『バンドリ！ ガールズバンドパーティ！』](https://bang-dream.bushimo.jp/)
 [^8]: 「バンドリ！ ガールズバンドパーティ！」の非公式Bot。本Discord Botは「クラフトエッグ」「ブシロード」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
 [^9]: An unofficial bot for the "BanG Dream! Girls Band Party!" This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "Craft Egg" and "bushiroad".
-[^10]: MAPPA、エイベックス・ピクチャーズ、Cygames共同企画による日本のテレビアニメ作品『ゾンビランドサガ』。ここでは続編の『ゾンビランドサガ リベンジ』を含む
+[^10]: MAPPA、エイベックス・ピクチャーズ、Cygames共同企画による日本のテレビアニメ作品[『ゾンビランドサガ』](https://zombielandsaga.com/1st/)。ここでは続編の[『ゾンビランドサガ リベンジ』](https://zombielandsaga.com/)を含む
 [^11]: 「ゾンビランドサガ」の非公式Bot。本Discord Botは「Cygames」「MAPPA」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
 [^12]: An unofficial bot for the "Zombie land SAGA" This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "Cygames" and "MAPPA".
 [^13]: 正式には企業名が入るが、ここでは個人情報秘匿のため記載せず
