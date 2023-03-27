@@ -44,7 +44,7 @@ DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試し�
       |  item  |  **βテスト時の**ゲーム内アイテム説明、入手方法等の情報  |
 
 ### まりなさん#6445  
-ガルパ[^7]の非公式Bot[^8][^9] メンバープロフィールの表示やガチャのデモを実行可能。  
+ガルパ[^7]の非公式Bot[^8][^9]  
 ※スラッシュコマンドへ移行の後、開発再開予定。[こちら](https://discord.gg/BDPvWzqC9f)でBotをお試しいただけます  
 
 * 搭載機能
@@ -88,9 +88,9 @@ DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試し�
 [^5]: 「takt op.」プロジェクトの非公式情報Bot。本Discord Botは「DeNA」「バンダイナムコアーツ」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
 [^6]: An unofficial info bot for the "takt op." This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "DeNA" and "BANDAI NAMCO Arts".
 [^7]: はじめよう、私たちのバンド活動（ライフ）！スマホで遊べるリズム＆アドベンチャーゲーム『バンドリ！ ガールズバンドパーティ！』
-[^8]: 「バンドリ！ ガールズバンドパーティ！」の非公式情報Bot。本Discord Botは「クラフトエッグ」「ブシロード」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
-[^9]: An unofficial info bot for the "takt op." This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "Craft Egg" and "bushiroad".
-[^10]: MAPPA、エイベックス・ピクチャーズ、Cygames共同企画による日本のテレビアニメ作品『ゾンビランドサガ』。ここでは続編の『ゾンビランドサガリベンジ』を含む
-[^11]:
-[^12]:
+[^8]: 「バンドリ！ ガールズバンドパーティ！」の非公式Bot。本Discord Botは「クラフトエッグ」「ブシロード」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
+[^9]: An unofficial bot for the "BanG Dream! Girls Band Party!" This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "Craft Egg" and "bushiroad".
+[^10]: MAPPA、エイベックス・ピクチャーズ、Cygames共同企画による日本のテレビアニメ作品『ゾンビランドサガ』。ここでは続編の『ゾンビランドサガ リベンジ』を含む
+[^11]: 「ゾンビランドサガ」の非公式Bot。本Discord Botは「Cygames」「MAPPA」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
+[^12]: An unofficial bot for the "Zombie land SAGA" This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "Cygames" and "MAPPA".
 [^13]: 正式には企業名が入るが、ここでは個人情報秘匿のため記載せず
