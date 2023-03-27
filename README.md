@@ -28,8 +28,8 @@ Discord(Sub)  GBP_border_data(JP)#1964
       |  card  |  属性やスキル効果、登場イベントなどを含むカード情報  |
 
 ### Cosette#2167  
-takt op.[^4]の非公式情報Bot[^5][^6] βテスト時のキャラクター情報やメンバープロフィールの表示、ガチャのデモを実行可能。  
-※正式リリース後に機能追加等を予定。DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試しいただけます
+takt op.[^4]の非公式情報Bot[^5][^6] 正式リリース後(2023/06下旬予定)に機能追加等を予定。  
+DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試しいただけます
 
 * 搭載機能
 
@@ -44,12 +44,21 @@ takt op.[^4]の非公式情報Bot[^5][^6] βテスト時のキャラクター情
       |  item  |  **βテスト時の**ゲーム内アイテム説明、入手方法等の情報  |
 
 ### まりなさん#6445  
-→ガルパの非公式Bot。メンバープロフィールの表示やガチャのデモを実行可能。  
+ガルパ[^7]の非公式Bot[^8][^9] メンバープロフィールの表示やガチャのデモを実行可能。  
 ※スラッシュコマンドへ移行の後、開発再開予定。[こちら](https://discord.gg/BDPvWzqC9f)でBotをお試しいただけます  
 
+* 搭載機能
+
+  * メンバープロフィール表示機能
+  * ガチャのデモ 
+
 ### FranChouChou#0554  
-→ゾンサガの非公式Bot。歌詞表示など  
+ゾンサガ[^10]の非公式Bot[^11][^12]。歌詞表示など  
 ※開発停止中、再開未定。Botのお試し希望の方はᏒ.#6298のDMまで  
+
+* 搭載機能
+
+  * 歌詞表示機能など
 
 ## Discord管理サーバー
 
@@ -70,7 +79,7 @@ takt op.[^4]の非公式情報Bot[^5][^6] βテスト時のキャラクター情
 ## Other
 
 ・Javaを用いたAndroidアプリ開発で「アイデア部門 特別賞」を受賞  
-・JavaScriptを使用したWebアプリ開発で「企業賞[^10]」を受賞
+・JavaScriptを使用したWebアプリ開発で「企業賞[^13]」を受賞
 
 [^1]: SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」
 [^2]: 「プロジェクトセカイ COLORFUL STAGE！ feat.初音ミク」の非公式情報Bot。 本Discord Botは「SEGA」「Colorful Palette」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
@@ -78,4 +87,10 @@ takt op.[^4]の非公式情報Bot[^5][^6] βテスト時のキャラクター情
 [^4]: DeNAとバンダイナムコアーツによるメディアミックスプロジェクト「takt op.」ここではゲーム『takt op. 運命は真紅き旋律の街を』とテレビアニメ『takt op.Destiny』も含む
 [^5]: 「takt op.」プロジェクトの非公式情報Bot。本Discord Botは「DeNA」「バンダイナムコアーツ」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
 [^6]: An unofficial info bot for the "takt op." This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "DeNA" and "BANDAI NAMCO Arts".
-[^10]: 正式には企業名が入るが、ここでは個人情報秘匿のため記載せず
+[^7]: はじめよう、私たちのバンド活動（ライフ）！スマホで遊べるリズム＆アドベンチャーゲーム『バンドリ！ ガールズバンドパーティ！』
+[^8]: 「バンドリ！ ガールズバンドパーティ！」の非公式情報Bot。本Discord Botは「クラフトエッグ」「ブシロード」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
+[^9]: An unofficial info bot for the "takt op." This is a fan-made Discord Bot for research purposes and has no official affiliation All credits for this Discord Bot belong to the rights holders including but not limited to "Craft Egg" and "bushiroad".
+[^10]: MAPPA、エイベックス・ピクチャーズ、Cygames共同企画による日本のテレビアニメ作品『ゾンビランドサガ』。ここでは続編の『ゾンビランドサガリベンジ』を含む
+[^11]:
+[^12]:
+[^13]: 正式には企業名が入るが、ここでは個人情報秘匿のため記載せず
