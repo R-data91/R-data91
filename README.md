@@ -5,6 +5,8 @@ Discord.jsばっかり弄ってる人。
 Discord(Main) Ꮢ.#6298  
 Discord(Sub)  GBP_border_data(JP)#1964  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-data91)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 作成・運用中のDiscord Bot
 
