@@ -28,6 +28,9 @@ Discord(Sub)  GBP_border_data(JP)#1964
       |  event  |  イベント属性、ボーナスキャラクターを含むイベント情報  |
       |  card  |  属性やスキル効果、登場イベントなどを含むカード情報  |
 
+### Walnut#1863
+準備中。
+
 ### Cosette#2167  
 takt op.[^4]の非公式情報Bot[^5][^6] 正式リリース後(2023/06下旬予定)に機能追加等を予定。  
 DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試しいただけます
