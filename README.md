@@ -6,12 +6,13 @@ Java、Python、C#少し。JavaScriptそれなりに。
 Discord .r91  
 Twitter(X) R_dagaya_ (メイン)  
 Twitter(X) R_takt_op (takt op.専用)  
+Twitter(X) pj_sekai_border (プロセカボーダー)  
 
 ## 作成・運用中のDiscord Bot
 
 ### Cosette#2167
 takt op.の非公式情報Bot[^1]
-DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試しいただけます
+DMまたは[こちら](https://discord.gg/cnhpvB8VHF)でBotをお試しいただけます
 
 * 搭載機能
 
@@ -27,10 +28,12 @@ DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試し�
 
 ### Anna#7165
 ログ取得用Bot。Bot名称は「takt op.Destiny」より。
-メッセージ、ユーザー、サーバー等すべての動作の網羅に向け開発中。
+メッセージ、ユーザー、サーバー等すべての動作の網羅に向け開発中。  
+Cosette、Annaは[takt op. community](https://discord.gg/cnhpvB8VHF)にて運用  
 
 ### Untitled#7408  
-プロセカ[^1]の非公式情報Bot[^2] 開発継続中。DMからBotをお試しいただけます。  
+プロセカの非公式情報Bot[^2] 開発継続中。DMからBotをお試しいただけます。  
+[こちら](https://discord.gg/VPKpRuxtYa)のサーバーで運用予定
 
 * 搭載機能
 
@@ -47,43 +50,11 @@ DMまたは[こちら](https://discord.com/invite/cnhpvB8VHF)でBotをお試し�
       |  event  |  イベント属性、ボーナスキャラクターを含むイベント情報  |
       |  card  |  属性やスキル効果、登場イベントなどを含むカード情報  |
 
-### チャレラやった？#6832
-プロセカにおける、チャレンジライブの通知用Bot。
-
-### Walnut#1863
-準備中。
-
-### まりなさん#6445  
-ガルパの非公式Bot[^3]  
-※開発停止中、再開未定。[こちら](https://discord.gg/BDPvWzqC9f)でBotをお試しいただけます  
-
-### FranChouChou#0554  
-ゾンサガの非公式Bot[^4]。歌詞表示など  
-※開発停止中、再開未定。Botのお試し希望の方はDiscordのDMまで  
-
-## Discord管理サーバー
-
-### [takt op. Community](https://discord.com/invite/cnhpvB8VHF)
-* takt op.プロジェクト全般のコミュニティサーバとして始動。
-* アニメ、アプリ双方のコミュニティとして発展途上
-* アプリ「takt op. 運命は真紅き旋律の街を」が6月28日にリリース！
-
-### [バンドリ！ ガールズバンドパーティ！](https://discord.com/invite/bang-dream-gbp)
-* 6周年に公式サーバとして設立される(現在は3か月の試用期間)
-* 第1回モデレータ募集により「Ꮢ.#6298」を含む十数名がモデレータとして選出される
-
-### [【非公式】ガルパコミュニティサーバ](https://discord.gg/BDPvWzqC9f)
-* 当初はボーダー共有サーバとして設立。周年時にコミュニティサーバとしてリスタート。
-* 数十イベントにおいてボーダー共有を支援、GBP_border_dataを含めボーダー情報共有の場として活動。
-* 6周年時に[バンドリ！ ガールズバンドパーティ！](https://discord.com/invite/bang-dream-gbp)が設立され、現在は非活性化。
-
 ## Other
 
 ・Javaを用いたAndroidアプリ開発で「アイデア部門 特別賞」を受賞  
-・JavaScriptを使用したWebアプリ開発で「企業賞[^5]」を受賞
+・JavaScriptを使用したWebアプリ開発で「企業賞[^3]」を受賞
 
 [^1]: 「takt op.」プロジェクトの非公式情報Bot。本Discord Botは「DeNA」「バンダイナムコアーツ」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
 [^2]: 「プロジェクトセカイ COLORFUL STAGE！ feat.初音ミク」の非公式情報Bot。 本Discord Botは「SEGA」「Colorful Palette」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
-[^3]: 「バンドリ！ ガールズバンドパーティ！」の非公式Bot。本Discord Botは「クラフトエッグ」「ブシロード」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
-[^4]: 「ゾンビランドサガ」の非公式Bot。本Discord Botは「Cygames」「MAPPA」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
-[^5]: 正式には企業名が入るが、ここでは個人情報秘匿のため記載せず
+[^3]: 正式には企業名が入るが、ここでは個人情報秘匿のため記載せず
