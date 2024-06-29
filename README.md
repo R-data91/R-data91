@@ -1,6 +1,6 @@
 # R-data91
 
-Discord.jsばっかり弄ってる人。プライベートリポジトリばっかです。  
+Discord.js弄ってる人。プライベートリポジトリばっかです。  
 Java、Python、C#少し。JavaScriptそれなりに。
 
 Discord .r91  
