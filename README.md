@@ -9,6 +9,9 @@ Twitter(X) R_takt_op (takt op.専用)
 Twitter(X) pj_sekai_border (プロセカボーダー)  
 
 ## 作成・運用中のDiscord Bot
+### Untitled#7408  
+プロセカの非公式情報Bot[^2] 開発継続中。DMからBotをお試しいただけます。  
+[こちら](https://discord.gg/VPKpRuxtYa)のサーバーで運用予定
 
 ### Cosette#2167
 takt op.の非公式情報Bot[^1]
@@ -18,10 +21,6 @@ DMまたは[こちら](https://discord.gg/cnhpvB8VHF)でBotをお試しいただ
 ログ取得用Bot。Bot名称は「takt op.Destiny」より。
 メッセージ、ユーザー、サーバー等すべての動作の網羅に向け開発中。  
 Cosette、Annaは[takt op. community](https://discord.gg/cnhpvB8VHF)にて運用  
-
-### Untitled#7408  
-プロセカの非公式情報Bot[^2] 開発継続中。DMからBotをお試しいただけます。  
-[こちら](https://discord.gg/VPKpRuxtYa)のサーバーで運用予定
 
 ## Other
 
