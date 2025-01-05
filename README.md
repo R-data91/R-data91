@@ -1,6 +1,6 @@
 # R-data91
 
-Discord.js弄ってる人。プライベートリポジトリばかりです  
+Discordアプリをいくつか作って運用しています。プライベートリポジトリばかりです  
 Java、Python、C#、Swift少し。JavaScriptメイン
 
 Discord .r91  
