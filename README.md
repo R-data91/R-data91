@@ -1,32 +1,41 @@
 # R-data91
 
-Discordアプリをいくつか作って運用しています。プライベートリポジトリばかりです  
-Java、Python、C#、Swift少し。JavaScriptメイン
+I have created and managed several Discord Apps. Most are private repositories.  
+Java, Python, C#, a little Swift, primarily JavaScript.
 
 Discord .r91  
-Twitter(X) R_dagaya_ (メイン)  
-Twitter(X) R_takt_op (takt op.専用)  
-Twitter(X) pj_sekai_border (プロセカボーダー)  
+Twitter(X) R_dagaya_ (main)  
+Twitter(X) R_takt_op (takt op.)  
+Twitter(X) pj_sekai_border (pjsekai border)  
 
-## 作成・運用中のDiscord Bot
+## Discord Apps
 ### Untitled#7408  
-プロセカの情報Bot[^2] 開発継続中。DMからBotをお試しいただけます。  
-サポートサーバーは[こちら](https://discord.gg/VPKpRuxtYa)
+Project SEKAI Information App[^1] Development is ongoing, you can try the app via DM.  
+Support server is [here](https://discord.gg/VPKpRuxtYa)
+
+**Consider supporting us:**  
+> 🎨 **Patreon:** [https://www.patreon.com/pj_sekai_border_untitled](https://www.patreon.com/pj_sekai_border_untitled)  
+> ☕ **Ko-fi:** [https://ko-fi.com/pj_sekai_border_untitled](https://ko-fi.com/pj_sekai_border_untitled)
 
 ### Cosette#2167
-takt op.[^1]の情報Bot。開発停止中、運用は継続。  
-DMまたは[こちら](https://discord.gg/cnhpvB8VHF)でBotをお試しいただけます
+Information app for takt op.[^2]. no longer under development, but still in operation.  
+You can try the app via DM or [here](https://discord.gg/cnhpvB8VHF)
 
 ### Anna#7165
-ログ取得用Bot。Bot名称は「takt op.Destiny」より。開発停止中、運用は継続。  
-メッセージ、ユーザー、サーバー等すべての動作の網羅に向け。  
-Cosette、Annaは[takt op. community](https://discord.gg/cnhpvB8VHF)にて運用  
+App for logging. The app name is derived from "takt op.Destiny". No longer under development, but still in operation.  
+Cosette and Anna are both operated at [takt op. community](https://discord.gg/cnhpvB8VHF)  
+
+## Databases
+### takt op. Memories - [spine viewer](https://github.com/takt-op-memories/taktop-spine-viewer)
+This is simple Spine Viewer and Database for takt op. [Page](https://takt-op-memories.github.io/taktop-spine-viewer/)
+### takt op. Memories - [voice player](https://github.com/takt-op-memories/taktop-voice-player)
+This is simple Voice Player and Database for takt op. [Page](https://takt-op-memories.github.io/taktop-voice-player/)  
+> To access the pages above, please obtain an authentication code from [Takt op. community](https://discord.gg/cnhpvB8VHF) or contact `.r91` on Discord.
 
 ## Other
+* Awarded the "Idea Category Special Award" for Android application development using Java.  
+* Won the "Company Award[^3]" for web application development using JavaScript, HTML, and CSS.
 
-・Javaを用いたAndroidアプリ開発で「アイデア部門 特別賞」を受賞  
-・JavaScriptを使用したWebアプリ開発で「企業賞[^3]」を受賞
-
-[^1]: 「takt op.」プロジェクトの情報Bot。本Discord Botは「DeNA」「バンダイナムコアーツ」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
-[^2]: 「プロジェクトセカイ COLORFUL STAGE！ feat.初音ミク」の情報Bot。 本Discord Botは「SEGA」「Colorful Palette」を含む、これに限定されない権利者にすべてのクレジットが帰属します。研究を目的としたファンメイドのDiscord Botであり、公式とは関係ありません
-[^3]: 正式には企業名が入るが、ここでは個人情報秘匿のため記載せず
+[^1]: This is an information App for "Project SEKAI COLORFUL STAGE! feat. Hatsune Miku". All credits for this Discord App belong to the rightful owners, including but not limited to "SEGA" and "Colorful Palette". This is a fan-made Discord App for research purposes and has no official affiliation.
+[^2]: This is an information App for the "takt op." project. All credits belong to the rightful owners, including but not limited to "DeNA". This is a fan-made Discord App for research purposes and has no official affiliation.
+[^3]: The company name is omitted here for privacy reasons.
