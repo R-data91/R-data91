@@ -3,10 +3,10 @@
 I have created and managed several Discord Apps. Most are private repositories.  
 Java, Python, C#, a little Swift, primarily JavaScript.
 
-Discord .r91  
-Twitter(X) R_dagaya_ (main)  
-Twitter(X) R_takt_op (takt op.)  
-Twitter(X) pj_sekai_border (pjsekai border)  
+Discord `.r91`  
+Twitter(X) `R_dagaya_` (main)  
+Twitter(X) `R_takt_op` (takt op.)  
+Twitter(X) `pj_sekai_border` (pjsekai border)  
 
 ## Discord Apps
 ### Untitled#7408  
@@ -30,7 +30,7 @@ Cosette and Anna are both operated at [takt op. community](https://discord.gg/cn
 This is simple Spine Viewer and Database for takt op. [Page](https://takt-op-memories.github.io/taktop-spine-viewer/)
 ### takt op. Memories - [voice player](https://github.com/takt-op-memories/taktop-voice-player)
 This is simple Voice Player and Database for takt op. [Page](https://takt-op-memories.github.io/taktop-voice-player/)  
-> To access the pages above, please obtain an authentication code from [Takt op. community](https://discord.gg/cnhpvB8VHF) or contact `.r91` on Discord.
+> To access the pages above, please obtain an authentication code from [takt op. community](https://discord.gg/cnhpvB8VHF) or contact `.r91` on Discord.
 
 ## Other
 * Awarded the "Idea Category Special Award" for Android application development using Java.  
